@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7B263A7546170682d459041444be8dDf66cF6B0F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7b263a7546170682d459041444be8ddf66cf6b0f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Buttsy Community",
+  "SYMBOL": "BUTTSY",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/buttsycommunity",
+  "SHOW_BACKGROUND": true
+}
